@@ -1,0 +1,1 @@
+The project report of DB management. Oracle Co. Database - SQL and PL/SQL is used in the project.
